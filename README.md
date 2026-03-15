@@ -4,8 +4,8 @@
 This project presents an interactive sales dashboard built using Power BI to analyze business performace.
 
 ## Key insights
-- Total Sales:
-- Profit Margin:
+- Total Sales: 2.30M
+- Profit Margin: 12.47%
 - Regional Sales Analysis
 - Monthly Sales Trend
 - Top 10 Products by Sales
